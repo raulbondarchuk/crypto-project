@@ -1,0 +1,7 @@
+[GIN] 2025/08/13 - 18:30:46 | 200 |            0s |             ::1 | GET      "/_sys/healthz"
+[GIN] 2025/08/13 - 18:31:11 | 200 |            0s |             ::1 | GET      "/_sys/info"
+[GIN] 2025/08/13 - 18:31:31 | 200 |            0s |             ::1 | GET      "/_sys/readyz"
+[GIN] 2025/08/13 - 18:31:55 | 200 |      1.0008ms |             ::1 | GET      "/_sys/routes"
+Error #01: json: unsupported type: gin.HandlerFunc
+[GIN] 2025/08/13 - 18:32:12 | 200 |      1.0779ms |             ::1 | GET      "/_sys/routes/table"
+[GIN] 2025/08/13 - 18:32:16 | 200 |            0s |             ::1 | GET      "/_sys/routes/table"

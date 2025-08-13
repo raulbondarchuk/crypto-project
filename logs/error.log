@@ -1,0 +1,7 @@
+2025/08/13 18:00:05 [server] listening on :8080
+2025/08/13 18:11:50 [server] listening on :8080
+2025/08/13 18:12:01 [server] listening on :8080
+2025/08/13 18:15:50 [server] listening on :8080
+2025/08/13 18:26:01 [server] listening on :8080
+2025/08/13 18:26:36 [server] listening on :8080
+2025/08/13 18:31:55 [error] GET /_sys/routes -> 200 in 1.0008ms | json: unsupported type: gin.HandlerFunc

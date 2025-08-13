@@ -5,3 +5,4 @@
 2025/08/13 18:26:01 [server] listening on :8080
 2025/08/13 18:26:36 [server] listening on :8080
 2025/08/13 18:31:55 [error] GET /_sys/routes -> 200 in 1.0008ms | json: unsupported type: gin.HandlerFunc
+2025/08/13 18:35:39 [server] listening on :8080
